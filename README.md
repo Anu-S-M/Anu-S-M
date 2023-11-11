@@ -109,9 +109,12 @@
     </div>
   </div>
 </div>
+</br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Keep%20coding%20and%20stay%20awesome!-brightgreen?style=flat&logo=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Keep coding and stay awesome!" />
+  <img src="https://img.shields.io/badge/-Keep%20coding%20and%20stay%20awesome!-skyblue?style=flat&logo=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Keep coding and stay awesome!" style="font-size: 50px; padding: 10px;" />
 </p>
+
+
 
 
 
