@@ -14,7 +14,7 @@
 
   👨‍💻 Explore my projects at [https://github.com/Anu-S-M](https://github.com/Anu-S-M).
 
-  💬 Curious about **Front-end development and Prompt Engineering**? 
+  💬 Curious about **Front-end development and prompt engineering?** 
 
   📫 Reach out to me at **subwift6@gmail.com**.
   </p>
@@ -111,7 +111,7 @@
 </div>
 </br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Keep%20coding%20and%20stay%20awesome!-skyblue?style=flat&logo=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Keep coding and stay awesome!" style="font-size: 50px; padding: 10px;" />
+  **Keep Coding and Stay Awesome**
 </p>
 
 
