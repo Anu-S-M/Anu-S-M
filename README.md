@@ -16,10 +16,11 @@
 
   💬 Curious about **Front-end development and prompt engineering?** 
 
-  📫 Reach out to me at **subwift6@gmail.com**.
   </p>
 </div>
-
+</p>
+</br>
+</br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/anu-s-m" target="_blank">
